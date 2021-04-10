@@ -1,0 +1,13 @@
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\bin\Debug\netcoreapp3.1\App-1.exe
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\bin\Debug\netcoreapp3.1\App-1.deps.json
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\bin\Debug\netcoreapp3.1\App-1.runtimeconfig.json
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\bin\Debug\netcoreapp3.1\App-1.runtimeconfig.dev.json
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\bin\Debug\netcoreapp3.1\App-1.dll
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\bin\Debug\netcoreapp3.1\App-1.pdb
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.csprojAssemblyReference.cache
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.AssemblyInfoInputs.cache
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.AssemblyInfo.cs
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.csproj.CoreCompileInputs.cache
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.dll
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.pdb
+C:\Users\KienVu\Desktop\Test C-Sharp\App-1\App-1\obj\Debug\netcoreapp3.1\App-1.genruntimeconfig.cache
